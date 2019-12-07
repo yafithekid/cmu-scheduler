@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 
+INSTRUCTOR_NAME = 'Instructor name'
 NUM_RESPONDENT_LABEL = 'Num of respondents'
 HOURS_PER_WEEK = 'Hrs Per Week'
 HOURS_PER_WEEK_IDX = 12
@@ -14,7 +15,7 @@ SUBJECT_MATTER = 'Explains subject matter of course'
 SHOW_RESPECT = 'Show respect for all students'
 OVERALL_TEACHING = 'Overall teaching rate'
 OVERALL_COURSE = 'Overall course rate'
-DATAFRAME_INDEX = [NUM_RESPONDENT_LABEL, HOURS_PER_WEEK, INTEREST_IN_STUDENT, COURSE_REQ,
+DATAFRAME_INDEX = [INSTRUCTOR_NAME,NUM_RESPONDENT_LABEL, HOURS_PER_WEEK, INTEREST_IN_STUDENT, COURSE_REQ,
                    CLEAR_LEARNING, FEEDBACK, IMPORTANCE_SUBJECT, SUBJECT_MATTER,
                    SHOW_RESPECT, OVERALL_TEACHING, OVERALL_COURSE]
 
@@ -25,6 +26,7 @@ def fceScore(courseId, instName):
     defaultReturn[HOURS_PER_WEEK] = HOURS_PER_WEEK_DEFAULT
     try:
         df = None
+        allDf = None
         with open(filename, 'r') as f:
             for line in f:
                 x = line.strip().split(',')
@@ -39,30 +41,41 @@ def fceScore(courseId, instName):
                             y[-1] = y[-1][1:-1]
                     else:
                         y.append(e)
+                sss = {
+                    NUM_RESPONDENT_LABEL: float(y[9]),
+                    HOURS_PER_WEEK: float(y[HOURS_PER_WEEK_IDX] if y[HOURS_PER_WEEK_IDX] != ' '
+                                          else HOURS_PER_WEEK_DEFAULT),
+                    INTEREST_IN_STUDENT: float(y[15]),
+                    COURSE_REQ: float(y[16]),
+                    CLEAR_LEARNING: float(y[17]),
+                    FEEDBACK: float(y[18]),
+                    IMPORTANCE_SUBJECT: float(y[19]),
+                    SUBJECT_MATTER: float(y[20]),
+                    SHOW_RESPECT: float(y[21]),
+                    OVERALL_TEACHING: float(y[22]),
+                    OVERALL_COURSE: float(y[23])
+                }
                 if y[6].lower() == instName.lower():
-                    sss = {
-                        NUM_RESPONDENT_LABEL: float(y[9]),
-                        HOURS_PER_WEEK: float(y[HOURS_PER_WEEK_IDX] if y[HOURS_PER_WEEK_IDX] != ' '
-                                              else HOURS_PER_WEEK_DEFAULT),
-                        INTEREST_IN_STUDENT: float(y[15]),
-                        COURSE_REQ: float(y[16]),
-                        CLEAR_LEARNING: float(y[17]),
-                        FEEDBACK: float(y[18]),
-                        IMPORTANCE_SUBJECT: float(y[19]),
-                        SUBJECT_MATTER: float(y[20]),
-                        SHOW_RESPECT: float(y[21]),
-                        OVERALL_TEACHING: float(y[22]),
-                        OVERALL_COURSE: float(y[23])
-                    }
                     if df is None:
                         df = pd.DataFrame(sss,
                                           index=DATAFRAME_INDEX, dtype='float')
                     else:
                         df = df.append(sss, ignore_index=True)
-        if df is None:
+                if allDf is None:
+                    allDf = pd.DataFrame(sss,
+                                          index=DATAFRAME_INDEX, dtype='float')
+                else:
+                    allDf = allDf.append(sss,ignore_index=True)
+        if allDf is None:
             return defaultReturn
-        else:
+        elif not(df is None):
             return dict(df.mean())
+        else:
+            minDf = allDf.min()
+            maxDf = allDf.max()
+            ret = minDf
+            ret[HOURS_PER_WEEK] = maxDf[HOURS_PER_WEEK]
+            return dict(ret)
     except FileNotFoundError:
         print(filename + ' not found')
         return defaultReturn
