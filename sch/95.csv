@@ -1,0 +1,233 @@
+Course,Course Title,Units,Sec,Mini,Days,Begin,End,Teaching Location,BDLG/Room,Instructor
+95702,Distributed Systems for Information Systems Management,12,A,,MW,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH A301,"Mccarthy, Michael
+Mertz, Joseph
+Barrett, Martin"
+,,,B,,MW,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH A301,"Mertz, Joseph
+Mccarthy, Michael
+Barrett, Martin"
+,,,C,,TR,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH A301,"Mccarthy, Michael
+Mertz, Joseph
+Barrett, Martin"
+95703,Database Management,12,K,,MW,01:30PM,02:50PM,"Adelaide, Australia",TOR CLASS2,"Szczypula, Janusz"
+,,,L,,MW,03:00PM,04:20PM,"Adelaide, Australia",TOR CLASS2,"Szczypula, Janusz"
+,,,Z,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,"Smith, Jeremy"
+95706,Object Oriented Analysis and Design,6,A4,Y,TR,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1206,"Dwivedi, Neelam"
+95710,Economic Analysis,6,A3,Y,MW,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1204,"Clay, Karen"
+,,,,Y,F,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH 1204,"Clay, Karen"
+,,,K4,Y,TR,01:30PM,02:50PM,"Adelaide, Australia",TOR CLASS1,"Lim, Tiong"
+,,,L4,Y,TR,03:00PM,04:20PM,"Adelaide, Australia",TOR CLASS1,"Lim, Tiong"
+95715,Financial Accounting,6,K3,Y,MW,09:00AM,10:20AM,"Adelaide, Australia",TOR CLASS1,"Lim, Tiong"
+,,,L3,Y,MW,10:30AM,11:50AM,"Adelaide, Australia",TOR CLASS1,"Lim, Tiong"
+95716,Principles of Finance,6,A4,Y,MW,09:00AM,10:20AM,"Pittsburgh, Pennsylvania",HBH 1006,"Pastor, Lynne"
+,,,B4,Y,MW,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1006,"Pastor, Lynne"
+,,,C4,Y,MW,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1006,"Pastor, Lynne"
+,,,K4,Y,MW,09:00AM,10:20AM,"Adelaide, Australia",TOR CLASS1,"Lim, Tiong"
+,,,L4,Y,MW,10:30AM,11:50AM,"Adelaide, Australia",TOR CLASS1,"Lim, Tiong"
+95717,Writing for Information Systems Management,6,A3,Y,MW,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1004,"Massaro, Haylee"
+,,,B4,Y,MW,09:00AM,10:20AM,"Pittsburgh, Pennsylvania",HBH 2008,"Massaro, Haylee"
+,,,C4,Y,TR,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 2003,"Fitzsimmons, Rebekah"
+,,,D4,Y,TR,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1004,"Fitzsimmons, Rebekah"
+95718,Professional Speaking,6,A3,Y,MW,09:00AM,10:20AM,"Pittsburgh, Pennsylvania",HBH 2003,"Massaro, Haylee"
+,,,B4,Y,MW,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 2011,"Massaro, Haylee"
+,,,C4,Y,MW,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 2011,"Massaro, Haylee"
+,,,D3,Y,MW,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1208,"Massaro, Haylee"
+,,,E3,Y,MW,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1208,"Labash, Stefan"
+,,,F4,Y,TR,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1007,"Labash, Stefan"
+,,,G3,Y,TR,09:00AM,10:20AM,"Pittsburgh, Pennsylvania",HBH 1007,"Fitzsimmons, Rebekah"
+,,,H4,Y,TR,09:00AM,10:20AM,"Pittsburgh, Pennsylvania",HBH 1208,"Fitzsimmons, Rebekah"
+,,,I3,Y,TR,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1007,"Fitzsimmons, Rebekah"
+,,,M3,Y,TR,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1007,"Fitzsimmons, Rebekah"
+95719,Accounting and Finance Foundations,6,A3,Y,MW,09:00AM,10:20AM,"Pittsburgh, Pennsylvania",HBH 2008,"Pastor, Lynne"
+,,,B3,Y,MW,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 2008,"Pastor, Lynne"
+,,,C3,Y,MW,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1005,"Pastor, Lynne"
+95720,Information Systems Project,0-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,AA,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,B,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,BB,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,C,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,CC,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,D,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,DD,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,E,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,EE,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,F,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,FF,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,G,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,GG,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,H,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,HH,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,I,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,II,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,JJ,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,K,,F,02:00PM,04:50PM,"Adelaide, Australia",TOR CLASS3,"Viswanathan, Murlikrishna"
+,,,N,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,NN,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,O,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,OO,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,P,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,PP,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,Q,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,QQ,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,R,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,RR,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,S,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,SS,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,T,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,U,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,UU,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,V,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,W,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,X,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,Y,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,Z,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,ZA,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,ZB,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,ZC,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,ZD,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,ZE,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,ZF,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,ZZ,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+95721,Information Systems Research Practicum,VAR,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,B,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,C,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,D,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,E,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,F,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,G,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+,,,H,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+95722,Digital Transformation,6,A3,Y,TR,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 2008,"Lightman, Ari"
+,,,B3,Y,TR,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 2008,"Lightman, Ari"
+,,,C4,Y,TR,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1002,"Lightman, Ari"
+,,,D4,Y,TR,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1002,"Lightman, Ari"
+,,,K3,Y,TR,09:00AM,10:20AM,"Adelaide, Australia",TOR CLASS5,"Esmailzadeh, Riaz"
+,,,L3,Y,TR,10:30AM,11:50AM,"Adelaide, Australia",TOR CLASS5,"Esmailzadeh, Riaz"
+,,,Z4,Y,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,"Riel, James"
+95723,Managing Disruptive Technologies,6,A3,Y,TR,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1202,"Sen, Ananya"
+,,,B3,Y,TR,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1202,"Sen, Ananya"
+,,,C3,Y,TR,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH 1202,"Sen, Ananya"
+95727,Applied Information Systems Practicum,VAR,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+95732,Marketing Digital Media,6,A3,Y,TR,09:00AM,10:20AM,"Pittsburgh, Pennsylvania",HBH 1005,"Smith, Michael"
+,,,B3,Y,TR,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1005,"Smith, Michael"
+95733,Internet of Things,6,A3,Y,TR,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1004,"Mccarthy, Michael"
+95736,Advanced Relational Database Management,6,A3,Y,R,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1002,"Trzeciak, Randy"
+95737,NoSQL Database Management,6,A3,Y,M,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1002,"Costa, Dan"
+,,,B4,Y,M,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1002,"Costa, Dan"
+,,,K4,Y,F,09:00AM,11:50AM,"Adelaide, Australia",TOR CLASS5,"Spooner, Derrick"
+95744,Cybersecurity Policy and Governance I,6,Z3,Y,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,"Butkovic, Matthew
+Fowler, Summer"
+95748,Software and Security,6,A3,Y,M,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 2003,"Yasar, Hasan"
+95749,Cryptography,6,A4,Y,MW,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH 2003,"Mayes, Joseph"
+95752,Introduction to Information Security Management,12,Z,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,"Trzeciak, Randy"
+95755,Information Security Risk Management I                                           : Information S RISK MANAGEMENT I,6,A3,Y,M,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH A301,"Tucker, Brett"
+,,,Z4,Y,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,"Tucker, Brett"
+95757,Information Security Policy & Management,6,A4,Y,TR,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",CIC 1201,"Telang, Rahul"
+95758,Network and Internet Security,12,A,,T,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1204,"Mayes, Joseph"
+95759,Malicious Code Analysis,6,A3,Y,W,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 2008,"Batchelor, Jason"
+95760,Decision Making Under Uncertainty,6,A4,Y,MW,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1002,"Wang, Hai"
+,,,,Y,F,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH A301,"Wang, Hai"
+,,,B4,Y,W,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH A301,"Wang, Hai"
+,,,,Y,F,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH A301,"Wang, Hai"
+,,,C3,Y,TR,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1002,"Wang, Hai"
+,,,,Y,F,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH A301,"Wang, Hai"
+,,,D3,Y,TR,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1002,"Wang, Hai"
+,,,,Y,F,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH A301,"Wang, Hai"
+,,,K4,Y,TR,01:30PM,02:50PM,"Adelaide, Australia",TOR CLASS5,"Esmailzadeh, Riaz"
+,,,L4,Y,TR,03:00PM,04:20PM,"Adelaide, Australia",TOR CLASS5,"Esmailzadeh, Riaz"
+95765,Information Security Thesis,VAR,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+95771,Data Structures and Algorithms,12,A,,MW,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1204,"Mccarthy, Michael"
+,,,Z,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+95778,R for Data Science,6,A4,Y,MW,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH 1206,"Ostlund, John"
+95788,Developing Blockchain Use Case,6,A4,Y,MW,06:30PM,08:15PM,"Pittsburgh, Pennsylvania",TEP 3801,"Mccarthy, Michael
+Goyal, Vipul"
+95791,Data Mining,6,A4,Y,MW,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 2008,TBA
+,,,,Y,F,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH A301,TBA
+,,,B4,Y,MW,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 2008,TBA
+,,,,Y,F,03:00PM,04:50PM,"Pittsburgh, Pennsylvania",HBH A301,TBA
+,,,K4,Y,MW,09:00AM,10:20AM,"Adelaide, Australia",TOR CLASS1,"Viswanathan, Murlikrishna"
+,,,Z4,Y,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,"Chen, Lujie"
+95796,Statistics for IT Managers,6,K3,Y,TR,01:30PM,02:50PM,"Adelaide, Australia",TOR CLASS2,"Szczypula, Janusz"
+,,,L3,Y,TR,03:00PM,04:20PM,"Adelaide, Australia",TOR CLASS2,"Szczypula, Janusz"
+95797,Data Warehousing,6,A3,Y,T,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1206,"Brichacek, Robert"
+95799,Linux and Open Source,6,A4,Y,W,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1202,"Moul, Dennis"
+95807,Object-Oriented Programming for Managers,12,Z,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,"Dwivedi, Neelam"
+95808,IT Project Management,6,A4,Y,M,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1004,"Tucker, Brett"
+95812,Introduction to the ITIL Framework,6,A4,Y,M,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1005,"Smalley, Ryan"
+95821,Product Management in IT,6,A4,Y,M,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1204,"Murray, Thomas"
+95828,Machine Learning for Problem Solving                                             : Machine Learning for Problem Solving,12,A,,TR,09:00AM,10:20AM,"Pittsburgh, Pennsylvania",HBH A301,TBA
+,,,,,F,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1002,TBA
+,,,B,,TR,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH A301,TBA
+,,,,,F,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1202,TBA
+95829,Software Design for Data Scientists,6,A4,Y,TR,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1202,"Dwivedi, Neelam"
+95832,Marketing Analytics,6,A4,Y,MW,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1005,TBA
+95851,Making Products Count: Data Science for Product Managers,6,A3,Y,MW,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH 1202,"Steier, David"
+95862,Current Topics in Privacy Seminar,3,A,,R,12:00PM,01:20PM,"Pittsburgh, Pennsylvania",HBH 1002,"Sadeh, Norman
+Libert, Timothy"
+95865,Unstructured Data Analytics,6,A3,Y,MW,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH 1204,"Chen, George"
+,,,,Y,F,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH A301,"Chen, George"
+,,,B3,Y,MW,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1204,"Chen, George"
+,,,,Y,F,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH A301,"Chen, George"
+,,,Z3,Y,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+95866,Advanced Business Analytics,6,A4,Y,MW,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1002,"Li, Beibei"
+,,,B3,Y,TR,01:30PM,02:50PM,"Pittsburgh, Pennsylvania",HBH 1202,"Telang, Rahul"
+95868,Exploring and Visualizing Data,6,A3,Y,MWF,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1206,"Choi, David"
+,,,B4,Y,MW,09:00AM,10:20AM,"Pittsburgh, Pennsylvania",HBH 1002,"Choi, David"
+,,,,Y,F,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1206,"Choi, David"
+95874,Agile Methods,6,A4,Y,T,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH A301,"Davis, John"
+,,,B3,Y,T,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1202,"Davis, John"
+95878,Engineering Privacy in Software,12,A,,MW,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",GHC 4101,"Libert, Timothy"
+95881,Web Application Development,6,A3,Y,T,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 2003,"Bigrigg, Michael"
+95882,Enterprise Web Development,6,A4,Y,T,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1202,"Bigrigg, Michael"
+95883,Ethical Penetration Testing,6,A4,Y,W,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1007,"Cook, Michael"
+,,,Z3,Y,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,TBA
+95884,Network Defenses,6,A3,Y,W,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1007,"Grech, Brandon
+Herr, Christopher"
+95885,Data Science and Big Data,12,A,,W,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1206,"Sooriamurthi, Raja"
+95888,Data Focused Python,6,A4,Y,W,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1204,"Ostlund, John"
+,,,B3,Y,TR,10:30AM,11:50AM,"Pittsburgh, Pennsylvania",HBH 1206,"Ostlund, John"
+,,,C3,Y,TR,03:00PM,04:20PM,"Pittsburgh, Pennsylvania",HBH 1206,"Ostlund, John"
+,,,D3,Y,TR,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH 1206,"Ostlund, John"
+95889,Applied Threat Analysis,12,A,,R,06:00PM,08:50PM,"Pittsburgh, Pennsylvania",HBH 1005,"O'Meara, Kyle"
+95891,Introduction to Artificial Intelligence,12,A,,TR,04:30PM,05:50PM,"Pittsburgh, Pennsylvania",HBH 1005,"Steier, David"
+95900,Internship,0-6,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Beggs, Sean"
+,,,K,,TBA,TBA,TBA,"Adelaide, Australia",TBA,"Yeap, Lay Hua"
+95901,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,K,,TBA,TBA,TBA,"Adelaide, Australia",DNM,"Viswanathan, Murlikrishna"
+95902,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95903,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,K,,TBA,TBA,TBA,"Adelaide, Australia",DNM,"Esmailzadeh, Riaz"
+95904,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Smith, Michael"
+,,,K,,TBA,TBA,TBA,"Adelaide, Australia",DNM,TBA
+95905,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Wasser, Andrew"
+95906,Independent Study,6,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Trzeciak, Randy"
+,,,B,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Lightman, Ari"
+,,,K,,TBA,TBA,TBA,"Adelaide, Australia",TBA,TBA
+95907,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,B,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95908,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Chouldechova, Alexandra"
+,,,B,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Branstetter, Lee"
+95909,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Chen, George"
+,,,B,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Labash, Stefan"
+95910,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,B,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95911,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95912,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95913,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95914,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Pastor, Lynne"
+95915,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Acquisti, Alessandro"
+95916,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95917,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Krishnan, Ramayya"
+95918,Independent Study,1-12,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Kurland, Kristen"
+95919,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Mccarthy, Michael"
+95920,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95921,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95922,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Padman, Rema"
+95923,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Weiss, Jeremy"
+95924,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Acquisti, Alessandro"
+95925,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Smith, Michael"
+95926,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Telang, Rahul"
+95927,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Szczypula, Janusz"
+95928,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Zak, Timothy"
+95929,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+95930,Independent Study,1-24,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,"Mertz, Joseph"
+95931,Independent Study,1-36,A,,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,TBA
+,,,K,,TBA,TBA,TBA,"Adelaide, Australia",TBA,TBA
