@@ -65,18 +65,6 @@ def generateSchedule():
                 for c in DATAFRAME_ADDITIONAL_INDEX:
                     data.loc[i, c] = scoreDataFrame[c]
 
-        maxDf = data.groupby(['Course'])[DATAFRAME_ADDITIONAL_INDEX].max()
-        minDf = data[data.apply(lambda x: x[scoring.OVERALL_COURSE] > 0.01, axis=1)].groupby(['Course'])[
-            DATAFRAME_ADDITIONAL_INDEX].min()
-        for i in data.index:
-            courseId = data['Course'][i]
-            # give max hours per week for any empty data
-            if data[scoring.HOURS_PER_WEEK][i] <= 0.01 and (courseId in maxDf[scoring.HOURS_PER_WEEK]):
-                data.loc[i, scoring.HOURS_PER_WEEK] = maxDf[scoring.HOURS_PER_WEEK][courseId]
-            # give min scores for any empty data
-            for col in DATAFRAME_ADDITIONAL_INDEX:
-                if data[col][i] <= 0.01 and (courseId in minDf[col]):
-                    data.loc[i, col] = minDf[col][courseId]
 
         data.to_csv(merged_filename, index=False)
     # end for
