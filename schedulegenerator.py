@@ -34,7 +34,7 @@ def generateSchedule():
     for prefix in ['94', '95']:
         filename = os.getcwd() + os.sep + 'sch' + os.sep + prefix + '.csv'
         merged_filename = os.getcwd() + os.sep + 'mrg' + os.sep + 'mrg_' + prefix + '.csv'
-        data = pd.read_csv(filename, dtype={'Course': 'str'})
+        data = pd.read_csv(filename, dtype={'Course': 'str', 'Sec': 'str'})
 
         # append additional data - set 0 as default value
         for col in DATAFRAME_ADDITIONAL_INDEX:
@@ -46,6 +46,9 @@ def generateSchedule():
             if math.isnan(float(data.loc[i]['Course'])):
                 for c in ['Course', 'Course Title', 'Units']:
                     data.loc[i, c] = data[c][i - 1]
+
+            if str(data['Sec'][i]) == 'nan':
+                data.loc[i, 'Sec'] = data['Sec'][i - 1]
 
             # calculate the section score for each of its instructor
             instructors = data['Instructor'][i].split('\n')
