@@ -14,6 +14,8 @@ YEAR_FIELD_NAME = '_ctl0:cphContent:grd1:DXFREditorcol3'
 FCE_ROW_CLASS = 'dxgvDataRow_Custom'
 START_YEAR = 2015
 END_YEAR = 2019
+USERNAME = 'myafi'
+PASSWORD = '????'
 
 # APPEND rows to smartevals.csv
 # need to be careful not to add same course twice
@@ -66,8 +68,10 @@ def login(driver):
     driver.get(LOGIN_URL)
     # assert "Python" in driver.title
     elem = driver.find_element_by_name(ELEMENT_NAME)
-    elem.send_keys("myafi")
+    elem.send_keys(USERNAME)
     elem = driver.find_element_by_name(ELEMENT_PASSWORD)
+    # put elem password here
+    elem.send_keys(PASSWORD)
     elem.send_keys(Keys.RETURN)
     time.sleep(5)
     driver.implicitly_wait(IMPLICIT_WAIT)
