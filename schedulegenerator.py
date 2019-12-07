@@ -65,6 +65,21 @@ def generateSchedule():
                 for c in DATAFRAME_ADDITIONAL_INDEX:
                     data.loc[i, c] = scoreDataFrame[c]
 
+        # give micro mini average from mini and semester long course
+        unitsDf = \
+            data[data.apply(lambda x: x[scoring.OVERALL_COURSE] > 0.01 and x['Units'] in ['3', '6', '12'],
+                            axis=1)].groupby(
+                ['Units'])[
+                DATAFRAME_ADDITIONAL_INDEX].mean()
+        for unit in ['3', '6', '12']:
+            if unit in unitsDf.index:
+                for col in DATAFRAME_ADDITIONAL_INDEX:
+                    unitsDf.loc[unit, col] = unitsDf[col][unit] * 3 / int(unit)
+        unitsDf = unitsDf.mean()
+        for i in data.index:
+            for col in DATAFRAME_ADDITIONAL_INDEX:
+                if data[col][i] <= 0.01:
+                    data.loc[i, col] = unitsDf[col]
 
         data.to_csv(merged_filename, index=False)
     # end for
